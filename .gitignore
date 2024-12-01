@@ -1,0 +1,5 @@
+.idea
+SETUP.md
+docker-compose.yml
+/public
+/resources
