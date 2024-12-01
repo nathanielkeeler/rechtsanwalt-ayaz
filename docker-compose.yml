@@ -1,9 +1,0 @@
-services:
-  server:
-    image: hugomods/hugo:exts
-    ports:
-      - "1313:1313"
-    volumes:
-      - .:/src
-      - ./public:/src/public
-    command: server --bind=0.0.0.0 --port=1313 --watch --cleanDestinationDir
