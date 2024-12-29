@@ -1,5 +1,5 @@
 ---
-title: "Business Sales"
+title: "XYZ"
 date: 2018-11-28T15:15:26+10:00
 featured: true
 draft: false
@@ -11,7 +11,7 @@ Business Sales refers to the process of selling a company or its assets to inter
 It entails various activities such as valuing the business, identifying potential buyers, negotiating the terms of the sale, conducting due diligence, and finalizing the transaction.
 
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services]()
 
 # Objectives 
 

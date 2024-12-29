@@ -51,32 +51,27 @@ title = "Rechtsanwalt Ayaz"
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Services"
+    name = "Recht"
     url = "/services/"
     weight = 1
 
   [[menu.main]]
-    name = "Team"
-    url = "/team/"
-    weight = 2
-
-  [[menu.main]]
-    name = "About"
+    name = "Über mich"
     url = "/about/"
     weight = 3
 
   [[menu.main]]
-    name = "Contact"
+    name = "Kontakt"
     url = "/contact/"
     weight = 4
 
   # Footer Menu
   [[menu.footer]]
-    name = "Home"
+    name = "Start"
     url = "/"
     weight = 1
 
   [[menu.footer]]
-    name = "Contact"
+    name = "Kontakt"
     url = "/contact/"
     weight = 2

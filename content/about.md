@@ -1,5 +1,5 @@
 ---
-title: 'About'
+title: 'Über mich'
 date: 2018-02-22T17:01:34+07:00
 ---
 
@@ -7,13 +7,13 @@ Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
 
-![About Us](/images/smartworks-coworking-cW4lLTavU80-unsplash.jpg)
+![Über mich](/images/serap.jpg)
 
-## Ne verba patulosque numen vix libet
+## Example Text
 
 Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
 Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+male! Quo sed hic die solido, gloria?
 
 1. Cum det dixit Parcarum qui spemque est
 2. Exit ex huic
@@ -27,7 +27,7 @@ dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
 Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
 esse iam feres mortis Plurima.
 
-## Postquam tamen
+## Example Text 2
 
 Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
 et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
@@ -42,8 +42,7 @@ licet! Inserui quamvis Clymeni.
 
 Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
 incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+vis, saxo recepta remigis indignata supera.
 
 Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
 iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
