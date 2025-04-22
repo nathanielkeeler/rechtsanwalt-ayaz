@@ -62,7 +62,7 @@ title = "Rechtsanwalt Ayaz"
 
   [[menu.main]]
     name = "Kontakt"
-    url = "/contact/"
+    url = "/kontakt/"
     weight = 4
 
   # Footer Menu
@@ -73,5 +73,5 @@ title = "Rechtsanwalt Ayaz"
 
   [[menu.footer]]
     name = "Kontakt"
-    url = "/contact/"
+    url = "/kontakt/"
     weight = 2

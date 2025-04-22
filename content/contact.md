@@ -4,12 +4,18 @@ date: 2018-02-22T17:01:34+07:00
 layout: contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Cranachweg 3  
+93051 Regensburg  
+Telefon: 0941/990072  
+Telefax: 0941/990073  
+E-Mail: [info@rechtsanwalt-ayaz.de](mailto:info@rechtsanwalt-ayaz.de)
 
-| Tag        | Gesprächszeiten   |
-|------------|-------------------|
-| Montag     | 08:30 - 17:00 Uhr |
-| Dienstag   | 08:30 - 17:00 Uhr |
-| Mittwoch   | 08:30 - 17:00 Uhr |
-| Donnerstag | 08:30 - 17:00 Uhr |
-| Freitag    | 08:30 - 17:00 Uhr |
+**Montag bis Donnerstag:**  
+8:30 Uhr bis 12:30 Uhr  
+14:00 Uhr bis 17:00 Uhr  
+
+**Freitag:**  
+8:30 Uhr bis 12:00 Uhr  
+
+Termine für ein Erstberatungsgespräch können auch außerhalb der oben genannten Bürozeiten vereinbart werden.
+In dringenden Fällen (wie zum Beispiel bei Erhalt einer Kündigung) ist Frau Rechtsanwältin Serap Ayaz für Sie auch unter **01573 6042018** erreichbar.
