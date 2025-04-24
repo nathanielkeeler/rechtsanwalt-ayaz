@@ -57,7 +57,7 @@ title = "Rechtsanwalt Ayaz"
 
   [[menu.main]]
     name = "Über mich"
-    url = "/about/"
+    url = "/ueber-mich/"
     weight = 3
 
   [[menu.main]]

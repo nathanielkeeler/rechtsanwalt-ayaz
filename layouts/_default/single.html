@@ -3,11 +3,19 @@
 {{ define "main" }}
 <div class="container pb-6 pt-6 pt-md-14 pb-md-14">
   <div class="row justify-content-start">
-    <div class="col-12 col-md-8">
-      <h1 class="title">{{.Title}}</h1>
-
+    <!-- Adjust the content column to appear first -->
+    <div class="col-12 col-md-8 order-2 order-md-1">
+      <div class="headlines">
+        <h1 class="title">{{.Title}}</h1>
+        <h2 class="subtitle">Serap Ayaz</h2>
+      </div>
+      <div class="col-12 col-md-8 mb-4 mb-md-0 order-1 order-md-2">
+        {{ if .Params.image }}
+        <img src="{{ .Params.image }}" alt="{{ .Title }}" class="img-fluid rounded" style="max-width: 100%; height: auto; object-fit: cover;">
+        {{ end }}
+      </div>
       <div class="content">{{.Content}}</div>
-    </div>
+    </div>    
   </div>
 </div>
 {{ end }}

@@ -1,51 +1,44 @@
 ---
 title: 'Über mich'
+image: "/images/portrait/portrait4.jpg"
 date: 2018-02-22T17:01:34+07:00
+slug: 'ueber-mich'
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+## Fachanwältin für Arbeitsrecht
 
-![Über mich](/images/serap.jpg)
+## Rechtsanwältin für Verkehrsrecht und Sozialrecht
 
-## Example Text
+---
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed hic die solido, gloria?
+Ich bin Serap Ayaz, eine erfahrene **Rechtsanwältin** und **Fachanwältin für Arbeitsrecht**, spezialisiert auf die Bereiche **Arbeitsrecht**, **Sozialrecht** und **Verkehrsrecht**. Seit meiner Zulassung im Jahr 2019 habe ich Mandantinnen und Mandanten in verschiedenen Städten wie Freiburg, Frankfurt und München erfolgreich vertreten. Seit 2021 bin ich in **Regensburg** tätig und führe seit 2024 meine eigene Kanzlei in Bürogemeinschaft mit Rechtsanwälte Schwolow & Kollegen.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+Als **Fachanwältin für Arbeitsrecht** unterstütze ich meine Mandantinnen und Mandanten in allen arbeitsrechtlichen Fragen, einschließlich sozialrechtlicher Angelegenheiten mit Bezug zum Arbeitsrecht. Ich vertrete meine Klientinnen und Klienten sowohl außergerichtlich als auch vor Gericht, um ihre Rechte durchzusetzen.
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+Im Bereich **Verkehrsrecht** liegt mein Fokus auf der schnellen und effizienten Schadensregulierung nach Verkehrsunfällen. Ich sorge dafür, dass meine Mandantinnen und Mandanten ihre Ansprüche zügig und erfolgreich geltend machen können.
 
-## Example Text 2
+Ich lege großen Wert auf eine gründliche Analyse des Sachverhalts und eine persönliche Beratung. Mein Ziel ist es, wirtschaftlich sinnvolle, pragmatische und kosteneffiziente Lösungen zu finden, die den Interessen meiner Mandantinnen und Mandanten gerecht werden.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+## Sprachen
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+Ich biete Beratung in folgenden Sprachen an:
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta remigis indignata supera.
+- **Deutsch**
+- **Türkisch**
+- **Englisch**
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+Der Kontakt kann persönlich vor Ort, telefonisch oder per Video erfolgen – ganz nach den Wünschen meiner Mandantinnen und Mandanten.
+
+---
+
+## Werdegang
+
+- **1988**: Geboren in Baden-Württemberg  
+- **2014**: Erstes Juristisches Staatsexamen an der Albert-Ludwigs-Universität in Freiburg  
+- **2017**: Zweites Juristisches Staatsexamen am Landgericht Offenburg  
+- **2018**: Tätigkeit als Unternehmensjuristin in Breisach  
+- **2019**: Zulassung als Rechtsanwältin  
+- **2019 - 2020**: Rechtsanwältin bei DLA Piper UK LLP in München  
+- **2021 - 2022**: Rechtsanwältin bei Dr. Groda & Partner mbB in Regensburg  
+- **2022 - 2024**: Rechtsanwältin bei Fachanwaltskanzlei Seibert in Regensburg  
+- **Seit Herbst 2024**: Selbstständige Rechtsanwältin in Bürogemeinschaft mit Rechtsanwälte Schwolow & Kollegen in Regensburg
