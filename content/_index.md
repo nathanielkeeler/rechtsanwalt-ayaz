@@ -1,5 +1,5 @@
 ---
-title: 'Homepage'
+title: 'Start'
 meta_title: 'Rechtsanwalt Ayaz'
 description: "Serap Ayaz - Recht auf Augenhöhe."
 intro_image: "images/illustrations/main.png"

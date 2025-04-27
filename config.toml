@@ -1,7 +1,7 @@
 baseURL = "/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
-languageCode = "en-us"
+languageCode = "de-de"
 title = "Rechtsanwalt Ayaz"
 
 [module]
