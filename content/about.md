@@ -1,6 +1,6 @@
 ---
 title: 'Über mich'
-image: "/images/portrait/portrait4.jpg"
+image: "images/portrait/portrait4.jpg"
 date: 2018-02-22T17:01:34+07:00
 slug: 'ueber-mich'
 ---
