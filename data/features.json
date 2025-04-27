@@ -1,17 +1,17 @@
 [
   {
-    "title": "Freie Konsulatation",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "title": "Kommunikation mit der Rechtsschutzversicherung",
+    "description": "Bei Bestehen einer Rechtsschutzversicherung wird die gesamte Kommunikation mit der Rechtsschutzversicherung übernommen.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Fachanwältin für Arbeitsrecht",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "title": "Direkter Kontakt",
+    "description": "Im laufenden Mandatsverhältnis haben Sie direkten Kontakt zu Rechtsanwältin Serap Ayaz und müssen nicht ständig auf einen Rückruf warten.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "XYZ",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "title": "Serivce in verschiedenen Sprachen",
+    "description": "Service wird in Deutsch, Türkisch und Englisch angeboten.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
