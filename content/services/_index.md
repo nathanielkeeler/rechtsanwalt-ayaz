@@ -1,5 +1,5 @@
 ---
-title: 'Recht'
+title: 'Leistungen'
 description: 'Ihre Anwältin für verschiedene rechtliche Themen.'
 intro_image: "images/illustrations/main.png"
 intro_image_absolute: true
