@@ -4,9 +4,10 @@ description: 'Ihre Anwältin für verschiedene rechtliche Themen.'
 intro_image: "images/illustrations/main.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
-slug: 'leistungen'
 ---
 
-# Ihre Anwältin für verschiedene rechtliche Themen.
+# Ihre Anwältin für rechtliche Angelegenheiten
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Als erfahrene Rechtsanwältin unterstütze ich Sie in verschiedenen Rechtsgebieten wie Arbeitsrecht, Verkehrsrecht und Sozialrecht. Mein Ziel ist es, Ihnen eine individuelle und lösungsorientierte Beratung zu bieten.
+
+Erfahren Sie mehr über meine Leistungen und wie ich Ihnen helfen kann, Ihre Rechte zu wahren.
