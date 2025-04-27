@@ -23,9 +23,9 @@ Ich lege großen Wert auf eine gründliche Analyse des Sachverhalts und eine per
 
 Ich biete Beratung in folgenden Sprachen an:
 
-- **Deutsch**
-- **Türkisch**
-- **Englisch**
+> - **Deutsch**
+> - **Türkisch**
+> - **Englisch**
 
 Der Kontakt kann persönlich vor Ort, telefonisch oder per Video erfolgen – ganz nach den Wünschen meiner Mandantinnen und Mandanten.
 
