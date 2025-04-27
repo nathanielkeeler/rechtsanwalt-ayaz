@@ -44,7 +44,7 @@ title = "Rechtsanwalt Ayaz"
   [params.seo]
     meta_twitter_site = ""
     meta_twitter_creator = ""
-    meta_og_image = ""  # TODO: Add screenshot
+    meta_og_image = ""  #TODO: Add screenshot
 
   [params.services]
     summary_truncate = 120 # How many characters to include in the summary of the services before truncating
@@ -53,13 +53,8 @@ title = "Rechtsanwalt Ayaz"
   # Main Menu
   [[menu.main]]
     name = "Leistungen"
-    url = "/leistungen/"
+    url = "/services/"
     weight = 1
-
-  [[menu.main]]
-    name = "Kosten"
-    url = "/kosten/"
-    weight = 2
 
   [[menu.main]]
     name = "Über mich"
