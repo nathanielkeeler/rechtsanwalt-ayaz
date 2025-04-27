@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://nathanielkeeler.github.io/ayaz-arbeitsrecht/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "de"
