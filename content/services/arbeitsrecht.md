@@ -16,11 +16,11 @@ Als erfahrene Rechtsanwältin mit spezialisiertem Fokus auf Arbeitsrecht stehe i
 
 ## Leistungen von Fachanwältin Serap Ayaz im Arbeitsrecht
 
-> - **Rechtliche Beratung für Arbeitnehmer:** Ob es um Kündigungen und Abmahnungen, die Überprüfung und Gestaltung von Arbeitsverträgen oder die Durchsetzung von Ansprüchen auf Lohn und Gehalt geht – Fachanwältin Serap Ayaz unterstützt Sie dabei, Ihre Rechte zu wahren und Ihre Interessen zu vertreten – sowohl außergerichtlich als auch gerichtlich.
+- **Rechtliche Beratung für Arbeitnehmer:** Ob es um Kündigungen und Abmahnungen, die Überprüfung und Gestaltung von Arbeitsverträgen oder die Durchsetzung von Ansprüchen auf Lohn und Gehalt geht – Fachanwältin Serap Ayaz unterstützt Sie dabei, Ihre Rechte zu wahren und Ihre Interessen zu vertreten – sowohl außergerichtlich als auch gerichtlich.
 
-> - **Rechtliche Unterstützung für Arbeitgeber:** Fachanwältin Serap Ayaz berät Sie in allen Fragen des Arbeitsrechts, von der Erstellung rechtssicherer Verträge über die Einhaltung arbeitsrechtlicher Vorschriften bis hin zur Begleitung und Durchführung von Kündigungsprozessen.
+- **Rechtliche Unterstützung für Arbeitgeber:** Fachanwältin Serap Ayaz berät Sie in allen Fragen des Arbeitsrechts, von der Erstellung rechtssicherer Verträge über die Einhaltung arbeitsrechtlicher Vorschriften bis hin zur Begleitung und Durchführung von Kündigungsprozessen.
 
-> - **Vertretung vor Gericht:** Sollte es zu einem Rechtsstreit kommen, vertritt Frau Serap Ayaz Sie kompetent und engagiert vor den Arbeitsgerichten, und bei der Verhandlung von Vergleichen und Einigungen, sofern Sie dies wünschen.
+- **Vertretung vor Gericht:** Sollte es zu einem Rechtsstreit kommen, vertritt Frau Serap Ayaz Sie kompetent und engagiert vor den Arbeitsgerichten, und bei der Verhandlung von Vergleichen und Einigungen, sofern Sie dies wünschen.
 
 ## Warum Sie sich für Fachanwältin Serap Ayaz entscheiden sollten
 
