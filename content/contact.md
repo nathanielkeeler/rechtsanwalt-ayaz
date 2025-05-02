@@ -19,7 +19,7 @@ Email: [info@rechtsanwalt-ayaz.de](mailto:info@rechtsanwalt-ayaz.de)
 > | Dienstag   | 08:30 - 12:30 Uhr         | 14:00 - 17:00 Uhr          |
 > | Mittwoch   | 08:30 - 12:30 Uhr         | 14:00 - 17:00 Uhr          |
 > | Donnerstag | 08:30 - 12:30 Uhr         | 14:00 - 17:00 Uhr          |
-> | Freitag    | 08:30 - 12:00 Uhr         |                          |
+> | Freitag    | 08:30 - 12:00 Uhr         |                            |
 
 Termine für ein Erstberatungsgespräch können auch **außerhalb der** oben genannten **Bürozeiten** vereinbart werden.
 
