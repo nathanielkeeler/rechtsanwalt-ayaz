@@ -23,6 +23,6 @@ Email: [info@rechtsanwalt-ayaz.de](mailto:info@rechtsanwalt-ayaz.de)
 
 Termine für ein Erstberatungsgespräch können auch **außerhalb der** oben genannten **Bürozeiten** vereinbart werden.
 
-In **dringenden Fällen** (wie zum Beispiel bei Erhalt einer Kündigung) ist Frau Rechtsanwältin Serap Ayaz für Sie auch unter **01573 6042018** erreichbar.
+In **dringenden Fällen** (wie zum Beispiel im Fall einer Kündigung) ist Frau Rechtsanwältin Serap Ayaz für Sie auch unter **01573 6042018** erreichbar.
 
 ## Anfahrt

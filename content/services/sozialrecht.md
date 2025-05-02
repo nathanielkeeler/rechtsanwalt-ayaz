@@ -20,7 +20,7 @@ In Zeiten von Unsicherheiten und Herausforderungen im Arbeitsleben hat Frau Sera
   Wenn Sie Ihren Arbeitsplatz verloren haben, steht Ihnen Frau Serap Ayaz in allen Belangen rund um das Arbeitslosengeld zur Verfügung. Sie hilft Ihnen, Ihre Ansprüche zu prüfen, Anträge korrekt auszufüllen und gegebenenfalls Widersprüche einzulegen. Ihr Ziel ist es, Ihre finanzielle Sicherheit in dieser durchaus schwierigen Zeit zu gewährleisten.
 
 - **Welche Ansprüche habe ich nach einem Arbeitsunfall?**  
-  Ein Arbeitsunfall kann schwerwiegende Folgen für Ihre Gesundheit und Ihre berufliche Zukunft haben. Rechtsanwältin Ayaz unterstützt Sie dabei, Ihre Ansprüche gegenüber der gesetzlichen Unfallversicherung geltend zu machen. Ob es um die Anerkennung des Unfalls, die Zahlung von Verletztengeld oder einer Verletztenrente geht – Rechtsanwältin Serap Ayaz steht Ihnen mit individueller Betreuung zur Seite.
+  Ein Arbeitsunfall kann schwerwiegende Folgen für Ihre Gesundheit und Ihre berufliche Zukunft haben. Rechtsanwältin Ayaz unterstützt Sie dabei, Ihre Ansprüche gegenüber der gesetzlichen Unfallversicherung geltend zu machen. Ob es um die Anerkennung des Arbeitsunfalls, die Zahlung von Verletztengeld oder einer Verletztenrente geht – Rechtsanwältin Serap Ayaz steht Ihnen mit individueller Betreuung zur Seite.
 
 - **Wann habe ich Anspruch auf Rente wegen Erwerbsminderung?**  
   Wenn Sie aufgrund gesundheitlicher Einschränkungen nicht mehr in der Lage sind, Ihren Beruf auszuüben, können Sie Anspruch auf eine Rente wegen Erwerbsminderung haben. Rechtsanwältin Serap Ayaz berät Sie umfassend zu den Voraussetzungen und setzt sich sowohl außergerichtlich als auch gerichtlich für die Durchsetzung Ihrer Rechte ein.

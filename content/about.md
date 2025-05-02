@@ -5,9 +5,11 @@ date: 2018-02-22T17:01:34+07:00
 slug: 'ueber-mich'
 ---
 
-## Fachanwältin für Arbeitsrecht
+## Rechtsanwältin für Arbeitsrecht
 
-## Rechtsanwältin für Verkehrsrecht und Sozialrecht
+## Anwältin für Verkehrsrecht 
+
+## Anwältin für Sozialrecht
 
 ---
 

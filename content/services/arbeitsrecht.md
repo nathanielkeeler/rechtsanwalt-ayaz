@@ -32,4 +32,4 @@ Als erfahrene Rechtsanwältin mit spezialisiertem Fokus auf Arbeitsrecht stehe i
 
 ## So können Sie Fachanwältin Serap Ayaz aus Regensburg kontaktieren
 
-Haben Sie Fragen oder benötigen Sie rechtliche Unterstützung? Zögern Sie nicht, Kontakt mit mir aufzunehmen! Ich freue mich darauf, Ihnen zu helfen und gemeinsam mit Ihnen an einer Lösung zu arbeiten, die Ihren Bedürfnissen gerecht wird.
+Haben Sie Fragen oder benötigen Sie rechtliche Unterstützung? Zögern Sie nicht, Kontakt mit Fachanwältin Serap Ayaz aufzunehmen! Sie freut sich darauf, Ihnen zu helfen und gemeinsam mit Ihnen an einer Lösung zu arbeiten, die Ihren Bedürfnissen gerecht wird.
