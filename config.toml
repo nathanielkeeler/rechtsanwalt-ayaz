@@ -3,7 +3,7 @@ themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "de"
 defaultContentLanguage = "de"
-title = "Rechtsanwalt Ayaz"
+title = "Rechtsanwaltskanzlei Ayaz"
 
 [module]
   [module.hugoVersion]
@@ -26,7 +26,7 @@ title = "Rechtsanwalt Ayaz"
     mobile_height = "36px"
     desktop = "images/logo/rechtsanwalt_ayaz.svg"
     desktop_height = "36px"
-    alt = "Rechtsanwalt Ayaz"
+    alt = "Rechtsanwaltskanzlei Ayaz"
 
   [params.fonts]
     # sets the google font link in layouts/partials/google-fonts.html
