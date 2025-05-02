@@ -24,7 +24,7 @@ title = "Rechtsanwaltskanzlei Ayaz"
   [params.logo]
     mobile = "images/logo/a_mobile.svg"
     mobile_height = "36px"
-    desktop = "images/logo/rechtsanwalt_ayaz.svg"
+    desktop = "images/logo/rechtsanwaltskanzlei_ayaz.svg"
     desktop_height = "36px"
     alt = "Rechtsanwaltskanzlei Ayaz"
 
