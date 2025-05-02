@@ -56,10 +56,10 @@ title = "Rechtsanwaltskanzlei Ayaz"
     url = "/services/"
     weight = 1
 
-  #[[menu.main]]
-  #  name = "Kosten"
-  #  url = "/kosten/"
-  #  weight = 2
+  [[menu.main]]
+    name = "Kosten"
+    url = "/kosten/"
+    weight = 2
 
   [[menu.main]]
     name = "Über mich"
