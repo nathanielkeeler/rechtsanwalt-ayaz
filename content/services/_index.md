@@ -1,7 +1,7 @@
 ---
 title: 'Leistungen'
 description: 'Ihre Anwältin für verschiedene rechtliche Themen.'
-intro_image: "images/illustrations/main.png"
+intro_image: "images/illustrations/main_books.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
