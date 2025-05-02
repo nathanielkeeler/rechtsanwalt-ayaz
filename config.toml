@@ -81,3 +81,13 @@ title = "Rechtsanwalt Ayaz"
     name = "Kontakt"
     url = "/kontakt/"
     weight = 2
+
+  [[menu.footer]]
+    name = "Datenschutzerklärung"
+    url = "/datenschutzerklaerung/"
+    weight = 3
+
+  [[menu.footer]]
+    name = "Impressum"
+    url = "/impressum/"
+    weight = 4
