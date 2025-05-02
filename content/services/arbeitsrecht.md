@@ -10,8 +10,6 @@ show_contact_box: true
 Kompetente arbeitsrechtliche Beratung und Vertretung in Regensburg – Fachanwältin Serap Ayaz unterstützt Arbeitnehmer und Arbeitgeber mit Expertise und Engagement.
 <!--more-->
 
-# Arbeitsrecht
-
 Als erfahrene Rechtsanwältin mit spezialisiertem Fokus auf Arbeitsrecht stehe ich Ihnen in allen arbeitsrechtlichen Angelegenheiten mit fachlicher Expertise und persönlichem Engagement zur Seite – und das in und um Regensburg.
 
 ## Leistungen von Fachanwältin Serap Ayaz im Arbeitsrecht
