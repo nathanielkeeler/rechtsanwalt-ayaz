@@ -15,8 +15,7 @@ berechnet.
 Wenn Sie keine Rechtsschutzversicherung haben, klärt Frau Rechtsanwältin Ayaz Sie aus
 Gründen der Klarheit und Transparenz im Erstberatungsgespräch – also bereits im Vorfeld –
 möglichst umfassend über die zu erwartenden Kosten auf. Ihr Ziel ist es, Ihnen eine gute
-Entscheidungsgrundlage für die weitere Vorgehensweise zu geben. Anhand des Streitwerts
-berechnet Frau Rechtsanwältin Ayaz die Gebühren für jeden Fall individuell, um mit Ihnen eine
+Entscheidungsgrundlage für die weitere Vorgehensweise zu geben. Frau Rechtsanwältin Ayaz berechnet die Gebühren für jeden Fall individuell, um mit Ihnen eine
 wirtschaftlich sinnvolle Lösung für Ihren Fall zu erarbeiten.
 
 Neben dem gesetzlichen Gebührenansatz nach dem Rechtsanwaltsvergütungsgesetz (RVG) bietet
