@@ -14,16 +14,16 @@ Ob Sie in einen Verkehrsunfall verwickelt waren, Fragen zu Bußgeldbescheiden ha
 
 ## Leistungen von Rechtsanwältin Serap Ayaz im Verkehrsrecht
 
-### Unfallrecht:
+### Unfallrecht
 - Beratung und Vertretung bei Verkehrsunfällen
 - Durchsetzung von Schadensersatzansprüchen
 - Unterstützung bei der Geltendmachung von Schmerzensgeld
 
-### Bußgeld- und Ordnungswidrigkeitenrecht:
+### Bußgeld- und Ordnungswidrigkeitenrecht
 - Überprüfung und Anfechtung von Bußgeldbescheiden
 - Vertretung in Verfahren wegen Geschwindigkeitsüberschreitung, Rotlichtverstößen und anderen Verkehrsordnungswidrigkeiten
 
-### Führerscheinrecht:
+### Führerscheinrecht
 - Beratung wegen Führerscheinentzug und -sperre
 - Unterstützung bei der Wiedererlangung des Führerscheins
 - Vertretung in Punkten und MPU-Verfahren

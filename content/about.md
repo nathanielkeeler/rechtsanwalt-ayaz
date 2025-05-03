@@ -6,7 +6,7 @@ slug: 'ueber-mich'
 layout: about
 ---
 
-## Rechtsanwältin für Arbeitsrecht
+## Fachanwältin für Arbeitsrecht
 
 ## Anwältin für Verkehrsrecht 
 
