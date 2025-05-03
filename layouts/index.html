@@ -60,7 +60,17 @@
 </div>
 {{end}}
 
-{{ end }}
+<div id="image-display" class="container pt-6 pb-6 pt-md-10 pb-md-10">
+  <div class="row justify-content-space-between">
+    {{ range .Params.review_images }}
+    <div class="col-12 col-md-6 col-lg-4 mb-2">
+      <div class="card h-100"
+        style="margin-bottom: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+        <img src="{{ . | relURL }}" alt="Review Image" class="card-img-top" style="max-width: 100%; height: auto;">
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</div>
 
-{{ define "footer_js" }}
 {{ end }}
