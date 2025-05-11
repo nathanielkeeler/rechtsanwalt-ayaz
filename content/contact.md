@@ -4,7 +4,6 @@ date: 2018-02-22T17:01:34+07:00
 slug: "kontakt"
 meta_title: "Kontakt"
 description: "Kontaktieren Sie Rechtsanwältin Serap Ayaz für rechtliche Beratung und Dienstleistungen."
-image: "images/illustrations/main.png"
 ---
 
 Cranachweg 3  
