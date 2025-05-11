@@ -5,20 +5,10 @@ description: "Transparente Kosten für die Rechtsdienstleistungen von Rechtsanw�
 slug: "kosten"
 ---
 
-Sie können sich gerne telefonisch oder per [Mail](mailto:info@rechtsanwalt-ayaz.de) bei
-Rechtsanwältin Serap Ayaz informieren, welche Kosten für ein Erstberatungsgespräch anfallen.
-Wenn Sie eine Rechtsschutzversicherung haben, werden die Gebühren häufig direkt von der
-Versicherung übernommen. Ob Ihr Fall von der Versicherung gedeckt ist, klärt Rechtsanwältin
-Serap Ayaz gerne für Sie im Vorfeld. Die Gebühren werden dann in der Regel gemäß den
-Bedingungen des Versicherungsvertrags und der gesetzlichen Gebührenordnung (RVG)
-berechnet.
+Informieren Sie sich telefonisch oder per [Mail](mailto:info@rechtsanwalt-ayaz.de) über die Kosten für ein Erstberatungsgespräch. 
 
-Wenn Sie keine Rechtsschutzversicherung haben, klärt Frau Rechtsanwältin Ayaz Sie aus
-Gründen der Klarheit und Transparenz im Erstberatungsgespräch – also bereits im Vorfeld –
-möglichst umfassend über die zu erwartenden Kosten auf. Ihr Ziel ist es, Ihnen eine gute
-Entscheidungsgrundlage für die weitere Vorgehensweise zu geben. Frau Rechtsanwältin Ayaz berechnet die Gebühren für jeden Fall individuell, um mit Ihnen eine
-wirtschaftlich sinnvolle Lösung für Ihren Fall zu erarbeiten.
+Falls Sie eine Rechtsschutzversicherung besitzen, übernimmt diese häufig die Gebühren. Rechtsanwältin Serap Ayaz klärt gerne vorab, ob Ihr Fall gedeckt ist. Die Gebühren richten sich nach den Bedingungen des Versicherungsvertrags und der gesetzlichen Gebührenordnung (RVG).
 
-Neben dem gesetzlichen Gebührenansatz nach dem Rechtsanwaltsvergütungsgesetz (RVG) bietet
-Serap Ayaz Ihnen auch die Möglichkeit, in individuellen Honorarvereinbarungen mit festgelegten
-Stundensätzen zu vereinbaren.
+Ohne Rechtsschutzversicherung erhalten Sie im Erstberatungsgespräch eine transparente Übersicht über die zu erwartenden Kosten. Ziel ist es, Ihnen eine fundierte Entscheidungsgrundlage zu bieten. Die Gebühren werden individuell berechnet, um eine wirtschaftlich sinnvolle Lösung zu finden.
+
+Neben der gesetzlichen Gebührenordnung (RVG) bietet Frau Rechtsanwältin Ayaz auch individuelle Honorarvereinbarungen mit festgelegten Stundensätzen an.
