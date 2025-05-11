@@ -3,6 +3,8 @@ title: 'Datenschutzerklärung'
 date: 2018-02-22T17:01:34+07:00
 layout: default
 slug: "datenschutzerklaerung"
+meta_title: "Datenschutzerklärung"
+description: "Datenschutzerklärung zur Rechtsanwaltskanzlei Ayaz."
 ---
 
 ## I. Allgemeine Informationen
@@ -10,16 +12,16 @@ slug: "datenschutzerklaerung"
 1. Im Folgenden informieren wir gemäß **Art. 13 DSGVO** über die Erhebung personenbezogener Daten bei Nutzung unserer Website. Personenbezogene Daten sind alle Daten, die auf Sie persönlich beziehbar sind, z. B. Name, Adresse, E-Mail-Adressen, Nutzerverhalten.
 
 2. **Verantwortlicher gem. Art. 4 Abs. 7 EU-Datenschutz-Grundverordnung (DSGVO):**
-   - Rechtsanwaltskanzlei Ayaz  
-     Inhaber: Rechtsanwältin Serap Ayaz  
-     Cranachweg 3  
-     93051 Regensburg  
+   > Rechtsanwaltskanzlei Ayaz  
+   > Inhaber: Rechtsanwältin Serap Ayaz  
+   > Cranachweg 3  
+   > 93051 Regensburg  
 
    Unseren Datenschutzbeauftragten erreichen Sie unter:  
-   - Rechtsanwaltskanzlei Ayaz  
-     Inhaberin: Rechtsanwältin Serap Ayaz  
-     Cranachweg 3  
-     93051 Regensburg
+   > Rechtsanwaltskanzlei Ayaz  
+   > Inhaberin: Rechtsanwältin Serap Ayaz  
+   > Cranachweg 3  
+   > 93051 Regensburg
 
 3. Bei Ihrer Kontaktaufnahme mit uns per E-Mail werden die von Ihnen mitgeteilten Daten (Ihre E-Mail-Adresse, ggf. Ihr Name und Ihre Telefonnummer) von uns gespeichert, um Ihre Fragen zu beantworten.  
    - **Rechtsgrundlage:** Unser berechtigtes Interesse an der Beantwortung Ihres Anliegens gemäß **Art. 6 Abs. 1 lit. f DSGVO**.  
@@ -39,7 +41,7 @@ slug: "datenschutzerklaerung"
 
 2. Sie haben zudem das Recht, sich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch uns zu beschweren.  
    Die zuständige Aufsichtsbehörde in datenschutzrechtlichen Fragen finden Sie unter folgendem Link:  
-   [https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html)
+   [https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html "Link zur Aufsichtsbehörde für Datenschutz.")
 
 ## III. Hosting
 
