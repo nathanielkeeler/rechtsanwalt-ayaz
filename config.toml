@@ -42,8 +42,6 @@ title = "Rechtsanwaltskanzlei Ayaz"
     grey = "#5c5a5a"
 
   [params.seo]
-    meta_twitter_site = ""
-    meta_twitter_creator = ""
     meta_og_image = "meta-image.jpg"
 
   [params.services]

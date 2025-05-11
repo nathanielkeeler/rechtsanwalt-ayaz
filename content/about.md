@@ -1,5 +1,7 @@
 ---
 title: 'Über mich'
+meta_title: "Über mich"
+description: "Erfahren Sie mehr über Rechtsanwältin Serap Ayaz und ihre Expertise in juristischen Dienstleistungen."
 image: "images/portrait/portrait4.jpg"
 date: 2018-02-22T17:01:34+07:00
 slug: 'ueber-mich'

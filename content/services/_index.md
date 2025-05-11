@@ -1,6 +1,7 @@
 ---
 title: 'Leistungen'
-description: 'Ihre Anwältin für verschiedene rechtliche Themen.'
+meta_title: "Rechtsdienstleistungen"
+description: "Entdecken Sie das Angebot an Rechtsdienstleistungen von Rechtsanwältin Serap Ayaz."
 intro_image: "images/illustrations/main_books.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false

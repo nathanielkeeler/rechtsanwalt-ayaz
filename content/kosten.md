@@ -1,6 +1,7 @@
 ---
 title: "Kosten"
-description: "Informationen zu den Kosten für Rechtsberatung und Vertretung."
+meta_title: "Kosten"
+description: "Transparente Kosten für die Rechtsdienstleistungen von Rechtsanwältin Serap Ayaz."
 slug: "kosten"
 ---
 
