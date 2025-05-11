@@ -16,7 +16,7 @@ Rechtsform: Einzelunternehmen
 ## Kontakt
 Telefon: 0941 / 990072  
 Telefax: 0941 / 990073  
-E-Mail: [info@rechtsanwalt-ayaz.de](mailto:info@rechtsanwalt-ayaz.de)  
+E-Mail: [info@rechtsanwalt-ayaz.de](mailto:info@rechtsanwalt-ayaz.de "E-Mail an Rechtsanwältin Serap Ayaz senden")  
 
 ## Angaben gemäß § 18 Abs. 2 Nr. 1 MStV
 **Inhaltlich verantwortlich:**  
@@ -32,7 +32,7 @@ Rechtsanwaltskammer Nürnberg
 Fürther Str. 115, 90429 Nürnberg  
 Tel: 0911 / 926330  
 Fax: 0911 / 9263333  
-E-Mail: [info@rak-nbg.de](mailto:info@rak-nbg.de)  
+E-Mail: [info@rak-nbg.de](mailto:info@rak-nbg.de "E-Mail an die Rechtsanwaltskammer Nürnberg senden")  
 
 Es gelten folgende berufsrechtliche Regelungen:  
 - Bundesrechtsanwaltsordnung (BRAO)  
@@ -41,7 +41,7 @@ Es gelten folgende berufsrechtliche Regelungen:
 - Berufsregeln der Rechtsanwälte der Europäischen Union (CCBE)  
 - Fachanwaltsordnung (FAO)  
 
-Alle berufsrechtlich relevanten Vorschriften können auf dem Internetauftritt der [Bundesrechtsanwaltskammer](https://www.brak.de) in der Rubrik „Berufsrecht“ eingesehen werden.
+Alle berufsrechtlich relevanten Vorschriften können auf dem Internetauftritt der [Bundesrechtsanwaltskammer](https://www.brak.de "Zur Website der Bundesrechtsanwaltskammer") in der Rubrik „Berufsrecht“ eingesehen werden.
 
 ## Berufshaftpflichtversicherung
 Die Berufshaftpflichtversicherung besteht bei:  
@@ -49,7 +49,7 @@ Die Berufshaftpflichtversicherung besteht bei:
 Sophienstr. 26, 80333 München  
 Tel: 089 / 890831650  
 Fax: 089 / 890831699  
-E-Mail: [info@markel.de](mailto:info@markel.de)  
+E-Mail: [info@markel.de](mailto:info@markel.de "E-Mail an Markel Insurance SE senden")  
 
 Der räumliche Geltungsbereich des Versicherungsschutzes umfasst Tätigkeiten in den Mitgliedsländern der Europäischen Union und genügt so mindestens den Anforderungen des § 51a i. V.m. § 51 Bundesrechtsanwaltsordnung (BRAO).
 
@@ -57,7 +57,7 @@ Der räumliche Geltungsbereich des Versicherungsschutzes umfasst Tätigkeiten in
 
 ## Streitschlichtung
 Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit:  
-[https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr)  
+[https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr "Zur Plattform der Europäischen Kommission für Online-Streitbeilegung")  
 
 Die E-Mail-Adresse von Rechtsanwältin Serap Ayaz finden Sie oben im Impressum.  
 

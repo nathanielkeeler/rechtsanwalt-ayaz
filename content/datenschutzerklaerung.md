@@ -14,7 +14,6 @@ slug: "datenschutzerklaerung"
      Inhaber: Rechtsanwältin Serap Ayaz  
      Cranachweg 3  
      93051 Regensburg  
-     (siehe unser [Impressum](impressum))
 
    Unseren Datenschutzbeauftragten erreichen Sie unter:  
    - Rechtsanwaltskanzlei Ayaz  
