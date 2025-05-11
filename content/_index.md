@@ -1,7 +1,7 @@
 ---
 title: 'Start'
 meta_title: 'Rechtsanwältin Serap Ayaz - Arbeitsrecht und mehr'
-description: "Rechtsanwältin Serap Ayaz - Ihre Expertin für Arbeitsrecht und rechtliche Beratung auf Augenhöhe."
+description: "Rechtsanwältin Serap Ayaz in Regensburg - Fachanwältin für Arbeitsrecht, Rechtsanwältin für Verkehrsrecht und Sozialrecht. Kompetente Beratung und Vertretung für Arbeitnehmer und Arbeitgeber."
 intro_image: "images/illustrations/main.png"
 intro_image_absolute: false
 intro_image_absolute_offset: "auto auto -100px -80px"
