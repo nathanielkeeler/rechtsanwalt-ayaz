@@ -26,4 +26,4 @@ Termine für ein Erstberatungsgespräch können auch **außerhalb der** oben gen
 
 In **dringenden Fällen** (wie zum Beispiel im Fall einer Kündigung) ist Frau Rechtsanwältin Serap Ayaz für Sie auch unter **01573 6042018** erreichbar.
 
-## Anfahrt
+<!-- ## Anfahrt -->
