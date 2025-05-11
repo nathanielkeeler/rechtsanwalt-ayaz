@@ -4,7 +4,6 @@ date: 2018-02-22T17:01:34+07:00
 slug: "impressum"
 meta_title: "Impressum"
 description: "Rechtliche Informationen und Details über Rechtsanwältin Serap Ayaz."
-image: "images/illustrations/main_books.png"
 ---
 
 **Rechtsanwaltskanzlei Ayaz**  
