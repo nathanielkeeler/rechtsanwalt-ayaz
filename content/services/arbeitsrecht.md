@@ -5,6 +5,8 @@ draft: false
 featured: true
 weight: 1
 show_contact_box: true
+meta_title: "Arbeitsrecht"
+description: "Fachanwältin Serap Ayaz bietet kompetente arbeitsrechtliche Beratung und Vertretung für Arbeitnehmer und Arbeitgeber."
 ---
 
 Kompetente arbeitsrechtliche Beratung und Vertretung in Regensburg – Fachanwältin Serap Ayaz unterstützt Arbeitnehmer und Arbeitgeber mit Expertise und Engagement.

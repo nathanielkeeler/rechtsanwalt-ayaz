@@ -5,6 +5,8 @@ featured: true
 draft: false
 weight: 2
 show_contact_box: true
+meta_title: "Verkehrsrecht"
+description: "Rechtsanwältin Serap Ayaz bietet umfassende rechtliche Unterstützung im Verkehrsrecht, einschließlich Unfallrecht, Bußgeldverfahren und Führerscheinrecht."
 ---
 
 Rechtsanwältin Serap Ayaz bietet umfassende rechtliche Unterstützung im Verkehrsrecht in Regensburg, einschließlich Unfallrecht, Bußgeldverfahren und Führerscheinrecht.

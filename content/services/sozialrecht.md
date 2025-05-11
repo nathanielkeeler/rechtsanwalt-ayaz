@@ -5,6 +5,8 @@ featured: true
 draft: false
 weight: 4
 show_contact_box: true
+meta_title: "Sozialrecht"
+description: "Rechtsanwältin Serap Ayaz unterstützt Sie bei Arbeitslosengeld, Arbeitsunfällen, Erwerbsminderungsrente und Schwerbehinderung."
 ---
 
 Sozialrecht in Regensburg: Unterstützung bei Arbeitslosengeld, Arbeitsunfällen, Erwerbsminderungsrente und Schwerbehinderung durch Rechtsanwältin Serap Ayaz.
